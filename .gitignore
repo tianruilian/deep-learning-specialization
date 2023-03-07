@@ -5,3 +5,5 @@
 *.data-00000-of-00001
 *.mat
 *output
+*.wav
+*.npy
